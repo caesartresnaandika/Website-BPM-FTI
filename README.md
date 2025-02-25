@@ -16,10 +16,7 @@ Website BPM FTI (Badan Perwakilan Mahasiswa Fakultas Teknologi Informasi) adalah
 - **Backend**: Node.js, Express.js (atau teknologi lain sesuai kebutuhan)
 - **Database**: MongoDB / MySQL
 - **Version Control**: Git & GitHub
-
-## 🤝 Kontribusi
-Kami terbuka untuk kontribusi! Jika ingin berkontribusi, silakan fork repo ini, buat branch baru, lakukan perubahan, dan ajukan pull request.
-
+  
 ## 📞 Kontak
 Jika ada pertanyaan atau saran, silakan hubungi kami melalui:
 📧 Email: 
