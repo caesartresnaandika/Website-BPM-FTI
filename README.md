@@ -22,8 +22,8 @@ Kami terbuka untuk kontribusi! Jika ingin berkontribusi, silakan fork repo ini, 
 
 ## 📞 Kontak
 Jika ada pertanyaan atau saran, silakan hubungi kami melalui:
-📧 Email: bpmfti@example.com  
-🌐 Website: [bpm-fti.com](https://bpm-fti.com)
+📧 Email: 
+🌐 Website:
 
 ---
 ⭐ Jangan lupa untuk memberi bintang (⭐) pada repository ini jika kamu merasa proyek ini bermanfaat!
